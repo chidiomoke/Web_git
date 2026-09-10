@@ -7,3 +7,10 @@
   height: 100px;
   background-color: purple;
 }
+
+.fav {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  border: 10px double red;
+}
